@@ -1,0 +1,279 @@
+body {
+  line-height: normal;
+}
+.zealous-p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.developer,
+body {
+  margin: 0;
+}
+.services-b,
+.zealous-creative-developer {
+  position: absolute;
+  font-size: 85px;
+  display: inline-block;
+}
+.zealous-creative-developer {
+  top: 156px;
+  left: 267px;
+  width: 601px;
+  height: 347px;
+}
+.services-b {
+  top: 2192px;
+  left: 156px;
+}
+.computer-coding-600x600-1-icon {
+  position: absolute;
+  top: 503px;
+  left: 267px;
+  width: 699px;
+  height: 707px;
+  object-fit: cover;
+}
+.studying-at-poornima-universit1 {
+  position: absolute;
+  top: 8px;
+  left: 331px;
+  display: inline-block;
+}
+.riyansh-jain-creative-develope,
+.twitter-div1 {
+  position: absolute;
+  top: 3270px;
+  left: 14px;
+  font-size: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.twitter-div1 {
+  top: 3301px;
+  left: 504px;
+  cursor: pointer;
+}
+.instagram-div1 {
+  top: 3301px;
+  left: 649px;
+  width: 143px;
+  height: 32px;
+}
+.developed-and-designed-by-riya,
+.instagram-div1,
+.lindekin-div1 {
+  position: absolute;
+  font-size: 24px;
+  font-weight: 600;
+  display: inline-block;
+}
+.lindekin-div1 {
+  top: 3301px;
+  left: 831px;
+  cursor: pointer;
+}
+.developed-and-designed-by-riya {
+  top: 3276px;
+  left: 1116px;
+}
+.cloud-engineer-span {
+  text-decoration: underline;
+}
+.i-am-a-to-be-cloud-engineer-wi {
+  top: 1306px;
+  left: 832px;
+  font-size: 24px;
+}
+.a-journey-that-evolves-me,
+.div,
+.div1,
+.i-am-a-to-be-cloud-engineer-wi {
+  position: absolute;
+  font-weight: 600;
+  display: inline-block;
+}
+.a-journey-that-evolves-me {
+  top: 1306px;
+  left: 128px;
+  font-size: 24px;
+}
+.div,
+.div1 {
+  top: 156px;
+  left: 27px;
+}
+.div1 {
+  top: 2192px;
+  left: 14px;
+}
+.div2,
+.div3,
+.div4,
+.front-end-development,
+.ui-designing-div {
+  position: absolute;
+  top: 2379px;
+  left: 156px;
+  font-weight: 600;
+  display: inline-block;
+}
+.div3,
+.div4,
+.front-end-development,
+.ui-designing-div {
+  top: 2459px;
+}
+.div4,
+.front-end-development,
+.ui-designing-div {
+  top: 2539px;
+}
+.front-end-development,
+.ui-designing-div {
+  top: 2379px;
+  left: 234px;
+}
+.ui-designing-div {
+  top: 2459px;
+}
+.creative-implementation-div,
+.div5,
+.send-me-a-message1,
+.want-to-work-together {
+  position: absolute;
+  top: 2539px;
+  left: 234px;
+  font-weight: 600;
+  display: inline-block;
+}
+.div5,
+.send-me-a-message1,
+.want-to-work-together {
+  top: 2779px;
+  left: 14px;
+}
+.send-me-a-message1,
+.want-to-work-together {
+  left: 329px;
+}
+.send-me-a-message1 {
+  left: 898px;
+}
+.connectto-riyanshgamil-com1 {
+  position: absolute;
+  top: 2877px;
+  left: 14px;
+  font-size: 85px;
+  display: inline-block;
+  cursor: pointer;
+}
+.line-icon {
+  position: absolute;
+  top: 482.5px;
+  left: 267px;
+  width: 699px;
+  height: 10px;
+}
+.line-icon1,
+.line-icon2,
+.line-icon3,
+.line-icon4 {
+  position: absolute;
+  top: 2348px;
+  left: 156px;
+  width: 1200px;
+  height: 2px;
+}
+.line-icon2,
+.line-icon3,
+.line-icon4 {
+  top: 2428px;
+}
+.line-icon3,
+.line-icon4 {
+  top: 2508px;
+}
+.line-icon4 {
+  top: 2588px;
+}
+.arrow-icon,
+.photo-2-1 {
+  position: absolute;
+  top: 2940px;
+  left: 1280.18px;
+  width: 73.64px;
+  height: 205px;
+  cursor: pointer;
+}
+.photo-2-1 {
+  top: 1524px;
+  left: 832px;
+  width: 494px;
+  height: 502px;
+  object-fit: cover;
+}
+.about-div2,
+.contact-div2 {
+  position: absolute;
+  top: 8px;
+  display: inline-block;
+}
+.contact-div2 {
+  left: 1291px;
+  cursor: pointer;
+}
+.about-div2 {
+  left: 1191px;
+  text-decoration: underline;
+}
+.work-div1 {
+  left: 1103px;
+  cursor: pointer;
+}
+.home-div1,
+.riyansh-jain-div1,
+.work-div1 {
+  position: absolute;
+  top: 8px;
+  display: inline-block;
+}
+.home-div1 {
+  left: 1012px;
+  cursor: pointer;
+}
+.riyansh-jain-div1 {
+  left: 31px;
+}
+.about-div1 {
+  position: relative;
+  background-color: #c7c7c7;
+  width: 100%;
+  height: 3350px;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: "Red Hat Text";
+}
+.transition.slide .cover1{
+  background-color: rgb(27, 27, 27);
+  animation: slide 0.3s ease-in-out forwards;
+}
+.transition.slide .cover2{
+  background-color: rgb(47, 47, 47);
+  animation: slide 0.3s ease-in-out forwards;
+  animation-delay: 0.3s;
+}
+.transition.slide  .cover3{
+  background-color: rgb(67, 67, 67);
+  animation: slide 0.3s ease-in-out forwards;
+  animation-delay: 0.6s;
+}
+
+@keyframes slide {
+  from{
+    left: -100vw;
+  }
+  to{
+    left: 0;
+  }
+}
