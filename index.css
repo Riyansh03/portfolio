@@ -392,3 +392,328 @@ body {
     left: 0;
   }
 }
+@media screen and (max-width:600px){
+  body {
+    line-height: normal;
+  }
+  .creative-p {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .developer,
+  body {
+    margin: 0;
+  }
+  .creative-developer-b {
+    position: absolute;
+    top: 55px;
+    left: 20px;
+    font-size: 20px;
+    display: inline-block;
+    width: 140px;
+    height: 60px;
+  }
+  .riyansh-p {
+    margin-block-start: 0;
+    margin-block-end: 2px;
+  }
+  .riyansh-jain-b {
+    position: absolute;
+    top: 192px;
+    left: 231px;
+    font-size: 20px;
+    display: inline-block;
+    width: 98px;
+    height: 48px;
+  }
+  .studying-at-poornima-universit {
+    position: absolute;
+    top: 8px;
+    left: 67px;
+    display: inline-block;
+    width: 113px;
+    height: 31px;
+  }
+  .arrow-icon {
+    position: absolute;
+    top: 266px;
+    left: 8.32px;
+    width: 7.36px;
+    height: 30.5px;
+  }
+  .ui-span {
+    text-decoration: underline;
+  }
+  .cloud-computing-student-who-lo {
+    position: absolute;
+    top: 270px;
+    left: 26px;
+    display: inline-block;
+    width: 135px;
+  }
+  .riyansh-jain-creative-develope,
+  .twitter-div {
+    position: absolute;
+    top: 1692px;
+    left: 6px;
+    font-weight: 600;
+    display: inline-block;
+    width: 95px;
+    height: 38px;
+  }
+  .twitter-div {
+    top: 1704px;
+    left: 105px;
+    width: 38px;
+    height: 20px;
+    cursor: pointer;
+  }
+  .instagram-div {
+    top: 1704px;
+    left: 149px;
+    width: 51px;
+    height: 20px;
+  }
+  .developed-and-designed-by-riya,
+  .instagram-div,
+  .lindekin-div {
+    position: absolute;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .lindekin-div {
+    top: 1704px;
+    left: 206px;
+    width: 34px;
+    height: 20px;
+    cursor: pointer;
+  }
+  .developed-and-designed-by-riya {
+    top: 1692px;
+    left: 250px;
+    width: 108px;
+    height: 39px;
+  }
+  .i-am-a-to-be-cloud-engineer-wi,
+  .i-have-taken-multiple-leadersh,
+  .this-website-provides-an-overv {
+    position: absolute;
+    top: 330px;
+    left: 104px;
+    font-size: 12px;
+    font-weight: 600;
+    display: inline-block;
+    width: 273px;
+    height: 98px;
+  }
+  .i-have-taken-multiple-leadersh,
+  .this-website-provides-an-overv {
+    top: 444px;
+    width: 267px;
+    height: 67px;
+  }
+  .i-have-taken-multiple-leadersh {
+    top: 519px;
+    white-space: pre-wrap;
+    width: 467px;
+    height: 133px;
+  }
+  .more-about-me-and-services {
+    position: absolute;
+    top: 653px;
+    left: 124px;
+    text-decoration: underline;
+    line-height: 40px;
+    font-weight: 500;
+    display: inline-block;
+    width: 155px;
+    height: 56px;
+  }
+  .div,
+  .div1,
+  .div2,
+  .div3 {
+    position: absolute;
+    top: 876px;
+    left: 11px;
+    font-weight: 600;
+    display: inline-block;
+  }
+  .div1,
+  .div2,
+  .div3 {
+    top: 1149px;
+    left: 14px;
+  }
+  .div2,
+  .div3 {
+    top: 1547px;
+    left: 11px;
+  }
+  .div3 {
+    top: 316px;
+    left: 12px;
+  }
+  .creative-development-div,
+  .recent-projects-div,
+  .send-me-a-message,
+  .want-to-work-together {
+    position: absolute;
+    top: 1484px;
+    left: 124px;
+    font-weight: 600;
+    display: inline-block;
+    width: 79px;
+    height: 32px;
+  }
+  .creative-development-div,
+  .recent-projects-div,
+  .send-me-a-message {
+    left: 280px;
+    width: 56px;
+  }
+  .creative-development-div,
+  .recent-projects-div {
+    top: 830px;
+    left: 91px;
+    width: 64px;
+    height: 38px;
+  }
+  .creative-development-div {
+    top: 829px;
+    left: 287px;
+    width: 63px;
+  }
+  .connectto-riyanshgamil-com,
+  .encryp-decryp-b,
+  .whiteboard {
+    position: absolute;
+    top: 903px;
+    left: 11px;
+    font-size: 20px;
+    display: inline-block;
+    width: 151px;
+    height: 30px;
+  }
+  .connectto-riyanshgamil-com,
+  .encryp-decryp-b {
+    top: 1177px;
+    left: 14px;
+    width: 91px;
+    height: 64px;
+  }
+  .connectto-riyanshgamil-com {
+    top: 1570px;
+    left: 11px;
+    width: 189px;
+    height: 84px;
+    cursor: pointer;
+  }
+  .encryption-is-the-process-of-t,
+  .the-idea-of-an-online-whiteboa {
+    position: absolute;
+    top: 968px;
+    left: 28px;
+    display: inline-block;
+    width: 133px;
+    height: 52px;
+  }
+  .encryption-is-the-process-of-t {
+    top: 1248px;
+    left: 24px;
+    white-space: pre-wrap;
+    width: 167px;
+    height: 38px;
+  }
+  .arrow-icon1 {
+    position: absolute;
+    top: 1611.49px;
+    left: 318.82px;
+    width: 7.36px;
+    height: 49.51px;
+    cursor: pointer;
+  }
+  .photo-1-1 {
+    position: absolute;
+    top: 125px;
+    left: 23px;
+    width: 125px;
+    height: 115.03px;
+    object-fit: cover;
+  }
+  .encryp-1-icon,
+  .photo-2-2,
+  .whiteboard-1-icon {
+    position: absolute;
+    top: 184px;
+    left: 520px;
+    width: 189px;
+    height: 173px;
+    object-fit: cover;
+  }
+  .encryp-1-icon,
+  .whiteboard-1-icon {
+    top: 948px;
+    left: 177px;
+    width: 173px;
+    height: 99px;
+  }
+  .encryp-1-icon {
+    top: 1233px;
+    left: 195px;
+    width: 148px;
+    height: 194px;
+  }
+  .about-div,
+  .contact-div {
+    height: 16px;
+    cursor: pointer;
+  }
+  .contact-div {
+    position: absolute;
+    top: 8px;
+    left: 313px;
+    display: inline-block;
+    width: 47px;
+  }
+  .about-div {
+    left: 280px;
+    width: 35px;
+  }
+  .about-div,
+  .home-div,
+  .riyansh-jain-div,
+  .work-div {
+    position: absolute;
+    top: 8px;
+    display: inline-block;
+  }
+  .work-div {
+    left: 251px;
+    width: 30px;
+    height: 16px;
+    cursor: pointer;
+  }
+  .home-div,
+  .riyansh-jain-div {
+    left: 4px;
+  }
+  .home-div {
+    left: 224px;
+    text-decoration: underline;
+    width: 30px;
+    height: 16px;
+  }
+  .main-page1-div {
+    position: relative;
+    background-color: #c7c7c7;
+    width: 100%;
+    height: 1750px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 8px;
+    color: #000;
+    font-family: "Red Hat Text";
+  }
+  
+}

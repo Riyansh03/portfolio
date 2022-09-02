@@ -13,7 +13,23 @@
       href="https://fonts.googleapis.com/css2?family=Red Hat Text:wght@400;500;600;700&display=swap"
     />
   </head>
+  <body link="black" vlink="black" alink="gray">
   <body>
+    <div class="container"></div>
+    <div class="transition">
+      <div class="cover cover1"></div>
+      <div class="cover cover2"></div>
+      <div class="cover cover3"></div>
+    </div>
+    <div class="containe"></div>
+    <div class="transitio">
+      <div class="cover cove1"></div>
+      <div class="cover cove2"></div>
+      <div class="cover cove3"></div>
+    </div>
+    <div class="contain"></div>
+    <div class="transiti">
+      <div class="cover cov1"></div>
     <div class="work-div2">
       <b class="my-works-b">MY WORKS</b>
       <div class="studying-at-poornima-universit2">
@@ -25,7 +41,7 @@
         <p class="projects">CREATIVE DEVELOPER</p>
       </div>
       <div class="twitter-div2" id="tWITTERText">TWITTER</div>
-      <div class="instagram-div2">INSTAGRAM</div>
+      <div class="instagram-div2"><a href="https://instagram.com/jriyansh03?igshid=YmMyMTA2M2Y=" style="text-decoration:none ;">INSTAGRAM</a></div>
       <div class="lindekin-div2" id="lindekInText">LindekIn</div>
       <div class="developed-and-designed-by-riya1">
         <p class="recent-p">Developed and designed by</p>
@@ -50,16 +66,15 @@
         <p class="recent-p">CREATIVE</p>
         <p class="projects">DEVELOPMENT</p>
       </div>
-      <b class="whiteboard">WHITEBOARD</b
-      ><b class="encryp-decryp-and-hashing"
-        ><p class="recent-p">ENCRYP. DECRYP.</p>
-        <p class="projects">AND HASHING</p></b
-      ><b class="connectto-riyanshgamil-com2" id="cONNECTTORIYANSHGAMILCOM"
-        ><p class="recent-p">CONNECT.TO.</p>
-        <p class="recent-p">RIYANSH@GAMIL.</p>
-        <p class="projects">COM</p></b
-      >
-      <div class="the-idea-of-an-online-whiteboa">
+      <b class="whiteboard reveal">WHITEBOARD</b
+      ><b class="encryp-decryp-and-hashing reveal"
+        ><p class="recent-p l">ENCRYP. DECRYP.
+& HASHING  </b>
+        <b class="connectto-riyanshgamil-com2" id="cONNECTTORIYANSHGAMILCOM"
+        ><p class="recent-p"><a href="mailto:connect.to.riyansh@gmail.com" style="text-decoration: none;">CONNECT.TO.
+        <br>RIYANSH@GAMIL.
+          <br>COM</p></b></a>
+      <div class="the-idea-of-an-online-whiteboa reveal">
         <p class="recent-p">
           The idea of an online whiteboard is to provide teams with a whiteboard
           on which they can work digital, from everywhere when they are online.
@@ -82,7 +97,7 @@
         </p>
         <p class="projects">&nbsp;</p>
       </div>
-      <div class="encryption-is-the-process-of-t">
+      <div class="encryption-is-the-process-of-t reveal">
         <p class="recent-p">
           Encryption is the process of translating plain text data (plaintext)
           into something that appears to be random and meaningless (ciphertext).
@@ -124,13 +139,13 @@
         alt=""
         src="public/whiteboard-1@2x.png"
       /><img class="encryp-1-icon" alt="" src="public/encryp-1@2x.png" />
-      <div class="contact-div3" id="cONTACTText">CONTACT</div>
-      <div class="about-div3" id="aBOUTText">ABOUT</div>
+      <div class="contact-div3" id="cONTACTText"><a href="c-o-n-t-a-c-t.html" class="contact" style="text-decoration: none;">CONTACT</a></div>
+      <div class="about-div3" id="aBOUTText"><a href="a-b-o-u-t.html" class="about" style="text-decoration: none;">ABOUT</a></div>
       <div class="work-div3">WORK</div>
       <div class="riyansh-jain-div2" data-scroll-to="rIYANSHJAINText">
         RIYANSH JAIN
       </div>
-      <div class="home-div2" id="hOMEText">HOME</div>
+      <div class="home-div2" id="hOMEText"><a href="index.html" class="home" style="text-decoration: none;">HOME</a></div>
     </div>
 
     <script>
@@ -169,26 +184,78 @@
         });
       }
       
-      var cONTACTText = document.getElementById("cONTACTText");
-      if (cONTACTText) {
-        cONTACTText.addEventListener("click", function (e) {
-          window.location.href = "./c-o-n-t-a-c-t.html";
-        });
-      }
       
-      var aBOUTText = document.getElementById("aBOUTText");
-      if (aBOUTText) {
-        aBOUTText.addEventListener("click", function (e) {
-          window.location.href = "./a-b-o-u-t.html";
-        });
-      }
       
-      var hOMEText = document.getElementById("hOMEText");
-      if (hOMEText) {
-        hOMEText.addEventListener("click", function (e) {
-          window.location.href = "/";
-        });
-      }
+      
       </script>
+      
+      <script type="text/javascript">
+        window.addeve
+        window.addEventListener('scroll',reveal);
+
+
+        function reveal(){
+          var reveals = document.querySelectorAll('.reveal');
+          for(var i = 0; i< reveals.length;i++){
+            var windowheight = window.innerHeight;
+            var revealtop = reveals[i].getBoundingClientRect().top;
+            var revealpoint = 150;
+             if(revealtop < windowheight - revealpoint){
+              reveals[i].classList.add('active');
+             }
+             else{
+              reveals[i].classList.remove('active');
+             }
+          }
+        
+        
+        }
+
+      </script>
+      <script>
+        const link = document.querySelector(".home");
+        
+        
+        const transition= document.querySelector(".transition");
+        link.addEventListener("click", (e) => {
+          e.preventDefault();
+          transition.classList.add("slide");
+          setTimeout(()=> {
+            window.location = link.href;
+          },900);
+        
+        }
+        );
+      </script>
+       
+       <script>
+        const about = document.querySelector(".about");
+        
+        const transitio = document.querySelector(".about");
+        about.addEventListener("click", (e) => {
+          e.preventDefault();
+          transition.classList.add("slide");
+          setTimeout(()=> {
+            window.location = about.href;
+          },900);
+        
+        }
+        );
+      </script>
+       
+       <script>
+        const contact = document.querySelector(".contact");
+        
+        const transiti = document.querySelector(".contact");
+        contact.addEventListener("click", (e) => {
+          e.preventDefault();
+          transition.classList.add("slide");
+          setTimeout(()=> {
+            window.location = contact.href;
+          },300);
+        
+        }
+        );
+       </script>
   </body>
 </html>
