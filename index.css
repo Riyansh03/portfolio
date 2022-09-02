@@ -393,327 +393,183 @@ body {
   }
 }
 @media screen and (max-width:600px){
-  body {
-    line-height: normal;
+  .creative-developer-b{
+    font-size: larger;
   }
-  .creative-p {
-    margin-block-start: 0;
-    margin-block-end: 0;
+  .riyansh-jain-div3{
+    font-size: x-small;
+    padding: 0px;
+    left: 10px;
   }
-  .developer,
-  body {
-    margin: 0;
+  .studying-at-poornima-universit3{
+    font-size: x-small;
+    left: 100px;
   }
-  .creative-developer-b {
-    position: absolute;
-    top: 55px;
-    left: 20px;
-    font-size: 20px;
-    display: inline-block;
-    width: 140px;
-    height: 60px;
+  .home-div3
+  {
+    font-size: x-small;
+    left: 220px;
   }
-  .riyansh-p {
-    margin-block-start: 0;
-    margin-block-end: 2px;
+  .work-div4
+  {
+    font-size: x-small;
+    left: 260px;
   }
-  .riyansh-jain-b {
-    position: absolute;
-    top: 192px;
-    left: 231px;
-    font-size: 20px;
-    display: inline-block;
-    width: 98px;
-    height: 48px;
+  .about-div4{
+    font-size: x-small;
+    left: 300px;
   }
-  .studying-at-poornima-universit {
-    position: absolute;
-    top: 8px;
-    left: 67px;
-    display: inline-block;
-    width: 113px;
-    height: 31px;
+  .contact-div4{
+    font-size: x-small;
+    left: 340px;
+
   }
-  .arrow-icon {
-    position: absolute;
-    top: 266px;
-    left: 8.32px;
-    width: 7.36px;
-    height: 30.5px;
+  .photo-1-1{
+    width: 50%;
+    height: 5%;
+    top: 4%;
   }
-  .ui-span {
-    text-decoration: underline;
+  .riyansh-jain-b{
+    font-size: larger;
+    left: 270px;
+    top: 9.5%;
   }
-  .cloud-computing-student-who-lo {
-    position: absolute;
-    top: 270px;
-    left: 26px;
-    display: inline-block;
-    width: 135px;
+  .cloud-computing-student-who-lo{
+    font-size: x-small;
+    top: 12%;
+    left: 8%;
   }
-  .riyansh-jain-creative-develope,
-  .twitter-div {
-    position: absolute;
-    top: 1692px;
-    left: 6px;
-    font-weight: 600;
-    display: inline-block;
-    width: 95px;
-    height: 38px;
+  .arrow-icon2{
+    top: 11.575%;
+    width: 2%;
   }
-  .twitter-div {
-    top: 1704px;
-    left: 105px;
-    width: 38px;
-    height: 20px;
-    cursor: pointer;
+  .div9{
+    font-size: x-small;
+    top: 14%;
   }
-  .instagram-div {
-    top: 1704px;
-    left: 149px;
-    width: 51px;
-    height: 20px;
+  .i-am-a-to-be-cloud-engineer-wi2
+  {
+    font-size: small;
+    left: 20%;
+    width: 50%;
+    top:14.3% ;
+    left: 180px;
   }
-  .developed-and-designed-by-riya,
-  .instagram-div,
-  .lindekin-div {
-    position: absolute;
-    font-weight: 600;
-    display: inline-block;
+  .this-website-provides-an-overv{
+    
+    
+      font-size: small;
+      
+      width : 50%;
+      top:14.5% ;
+      left: 180px;
+    
   }
-  .lindekin-div {
-    top: 1704px;
-    left: 206px;
-    width: 34px;
-    height: 20px;
-    cursor: pointer;
+  .i-have-taken-multiple-leadersh{
+    font-size: small;
+      
+      width : 50%;
+      top: 14.7% ;
+      left: 180px;
   }
-  .developed-and-designed-by-riya {
-    top: 1692px;
-    left: 250px;
-    width: 108px;
-    height: 39px;
+  .more-about-me-and-services{
+    font-size: small;
+    width: 50%;
+    left: 110px;
+    top: 28%;
   }
-  .i-am-a-to-be-cloud-engineer-wi,
-  .i-have-taken-multiple-leadersh,
-  .this-website-provides-an-overv {
-    position: absolute;
-    top: 330px;
-    left: 104px;
-    font-size: 12px;
-    font-weight: 600;
-    display: inline-block;
-    width: 273px;
-    height: 98px;
-  }
-  .i-have-taken-multiple-leadersh,
-  .this-website-provides-an-overv {
-    top: 444px;
-    width: 267px;
-    height: 67px;
-  }
-  .i-have-taken-multiple-leadersh {
-    top: 519px;
-    white-space: pre-wrap;
-    width: 467px;
-    height: 133px;
-  }
-  .more-about-me-and-services {
-    position: absolute;
-    top: 653px;
-    left: 124px;
-    text-decoration: underline;
-    line-height: 40px;
-    font-weight: 500;
-    display: inline-block;
-    width: 155px;
-    height: 56px;
-  }
-  .div,
-  .div1,
-  .div2,
-  .div3 {
-    position: absolute;
-    top: 876px;
-    left: 11px;
-    font-weight: 600;
-    display: inline-block;
-  }
-  .div1,
-  .div2,
-  .div3 {
-    top: 1149px;
-    left: 14px;
-  }
-  .div2,
-  .div3 {
-    top: 1547px;
-    left: 11px;
-  }
-  .div3 {
-    top: 316px;
-    left: 12px;
-  }
-  .creative-development-div,
-  .recent-projects-div,
-  .send-me-a-message,
-  .want-to-work-together {
-    position: absolute;
-    top: 1484px;
-    left: 124px;
-    font-weight: 600;
-    display: inline-block;
-    width: 79px;
-    height: 32px;
-  }
-  .creative-development-div,
-  .recent-projects-div,
-  .send-me-a-message {
-    left: 280px;
-    width: 56px;
-  }
-  .creative-development-div,
-  .recent-projects-div {
-    top: 830px;
-    left: 91px;
-    width: 64px;
-    height: 38px;
-  }
-  .creative-development-div {
-    top: 829px;
-    left: 287px;
-    width: 63px;
-  }
-  .connectto-riyanshgamil-com,
-  .encryp-decryp-b,
-  .whiteboard {
-    position: absolute;
-    top: 903px;
-    left: 11px;
-    font-size: 20px;
-    display: inline-block;
-    width: 151px;
-    height: 30px;
-  }
-  .connectto-riyanshgamil-com,
-  .encryp-decryp-b {
-    top: 1177px;
-    left: 14px;
-    width: 91px;
-    height: 64px;
-  }
-  .connectto-riyanshgamil-com {
-    top: 1570px;
-    left: 11px;
-    width: 189px;
-    height: 84px;
-    cursor: pointer;
-  }
-  .encryption-is-the-process-of-t,
-  .the-idea-of-an-online-whiteboa {
-    position: absolute;
-    top: 968px;
-    left: 28px;
-    display: inline-block;
-    width: 133px;
-    height: 52px;
-  }
-  .encryption-is-the-process-of-t {
-    top: 1248px;
-    left: 24px;
-    white-space: pre-wrap;
-    width: 167px;
-    height: 38px;
-  }
-  .arrow-icon1 {
-    position: absolute;
-    top: 1611.49px;
-    left: 318.82px;
-    width: 7.36px;
-    height: 49.51px;
-    cursor: pointer;
-  }
-  .photo-1-1 {
-    position: absolute;
-    top: 125px;
-    left: 23px;
-    width: 125px;
-    height: 115.03px;
-    object-fit: cover;
-  }
-  .encryp-1-icon,
-  .photo-2-2,
-  .whiteboard-1-icon {
-    position: absolute;
-    top: 184px;
-    left: 520px;
-    width: 189px;
-    height: 173px;
-    object-fit: cover;
-  }
-  .encryp-1-icon,
-  .whiteboard-1-icon {
-    top: 948px;
-    left: 177px;
-    width: 173px;
-    height: 99px;
-  }
-  .encryp-1-icon {
-    top: 1233px;
-    left: 195px;
-    width: 148px;
-    height: 194px;
-  }
-  .about-div,
-  .contact-div {
-    height: 16px;
-    cursor: pointer;
-  }
-  .contact-div {
-    position: absolute;
-    top: 8px;
-    left: 313px;
-    display: inline-block;
-    width: 47px;
-  }
-  .about-div {
-    left: 280px;
-    width: 35px;
-  }
-  .about-div,
-  .home-div,
-  .riyansh-jain-div,
-  .work-div {
-    position: absolute;
-    top: 8px;
-    display: inline-block;
-  }
-  .work-div {
-    left: 251px;
-    width: 30px;
-    height: 16px;
-    cursor: pointer;
-  }
-  .home-div,
-  .riyansh-jain-div {
-    left: 4px;
-  }
-  .home-div {
-    left: 224px;
-    text-decoration: underline;
-    width: 30px;
-    height: 16px;
-  }
-  .main-page1-div {
-    position: relative;
-    background-color: #c7c7c7;
-    width: 100%;
-    height: 1750px;
-    overflow: hidden;
-    text-align: left;
-    font-size: 8px;
-    color: #000;
-    font-family: "Red Hat Text";
-  }
+  .div10{
+    font-size: x-small;
+    top: 30%;
   
+  }
+  .recent-projects-div1{
+    font-size: x-small;
+    top: 30%;
+    left: 150px;
+  }
+.creative-development-div1{
+  font-size: x-small;
+    top: 30%;
+    left: 350px;
 }
+.whiteboard1{
+  font-size: larger;
+  top: 23%;
+  left: 10%;
+}
+.the-idea-of-an-online-whiteboa1
+{
+  top: 20%;
+  left: 10%;
+  font-size: small;
+}
+.whiteboard-1-icon1{
+  width: 50%;
+    height: 5%;
+    top: 39%;
+    left: 10%;
+}
+.div11{
+    font-size: x-small;
+    top: 45%;
+}
+.encryp-decryp-b{
+  font-size: larger;
+  top: 47%;
+  left: 10%;
+}
+.encryption-is-the-process-of-t1{
+  top: 29.5%;
+  left: 4%;
+  font-size: small;
+}
+.encryp-1-icon1{
+  width: 50%;
+    height: 5%;
+    top: 51.5%;
+    left: 10%;
+
+}
+.div12{
+  font-size: x-small;
+  top: 60%;
+
+}
+.want-to-work-together2{
+  font-size: x-small;
+  top: 60%;
+  left: 150px;
+}
+.send-me-a-message3{
+  font-size: x-small;
+  top: 60%;
+  left: 350px;
+}
+.connectto-riyanshgamil-com3{
+  font-size: larger;
+  top: 62%;
+}
+.riyansh-jain-creative-develope2{
+  font-size: x-small;
+  top: 65%;
+}
+.twitter-div3{
+  font-size: x-small;
+  top: 65%;
+  left: 140px;
+}
+.instagram-div3{
+  font-size: x-small;
+  top: 65%;
+  left: 200px;
+}
+.lindekin-div3{
+  font-size: x-small;
+  top: 65%;
+  left: 280px;
+}
+.developed-and-designed-by-riya2
+{font-size: x-small;
+  top: 66.5%;
+  left: 140px;}
